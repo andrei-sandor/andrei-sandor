@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Who you are/what you do
-
-Overview of projects
+Here the portfolio will appear

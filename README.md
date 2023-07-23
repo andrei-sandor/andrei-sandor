@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 - Machine learning was done to detect if the person has a disease
 - sqlite was used to handle the database representing the record of the patient
 
-  Link to the Github repo: https://github.com/andrei-sandor/RUHackathon
+Link to the Github repo: https://github.com/andrei-sandor/RUHackathon
 
 ## Link to my portfolio for my other projects
 Link to my porfolio: https://github.com/andrei-sandor/Portfolio-Andrei-Sandor

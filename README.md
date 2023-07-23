@@ -53,9 +53,9 @@ Here are some ideas to get you started:
  Link to the Github repo: https://github.com/andrei-sandor/ChatMoji
 
 ### RU Hackathon
-- Created an application that diagnoses if a person has a disease.
-- Machine learning was done to detect if the person has a disease.
-- sqlite was used to handle the database representing the record of the patient.
+- Created an application that diagnoses if a person has a disease
+- Machine learning was done to detect if the person has a disease
+- sqlite was used to handle the database representing the record of the patient
 
   Link to the Github repo: https://github.com/andrei-sandor/RUHackathon
 

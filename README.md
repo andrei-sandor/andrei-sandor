@@ -15,3 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Here the portfolio will appear
+
+
+
+
+    🧑🏻‍🎓 Third Year Software Engineering Co-op student at McGill University
+
+    👨🏻‍💻 Two internships completed (Rogue Research and Gildan). One to come at Autodesk in Fall 2023.
+
+    💪 Master these programming languages:
+        Python (including the libraries Scikit-Learn, Pandas, Numpy, OpenCV, MatPlotLib)
+        Java
+        C
+        C++ (Including OpenCV)
+        Objective-C
+        Assembly
+        HTML
+        CSS
+        JavaScript
+        VHDL
+        R
+        Octave
+
+    Reach me at: andrei.sandor@mail.mcgill.ca

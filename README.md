@@ -38,9 +38,12 @@ Here the portfolio will appear
         Octave
 
 
+Link to my porfolio: https://github.com/andrei-sandor/Portfolio-Andrei-Sandor
     
 
  ![Andrei Sandor's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrei-sandor)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei-sandor)
     Reach me at: andrei.sandor@mail.mcgill.ca
+
+

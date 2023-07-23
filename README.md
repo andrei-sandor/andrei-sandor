@@ -42,13 +42,22 @@ Here are some ideas to get you started:
 - Built the backend by using Java, Spring, JPA, PostgreSQL
 - Built the frontend by using vue.js (HTML, CSS, JavaScript)
 
-Link to the Github repo:
-https://github.com/McGill-ECSE321-Fall2022/project-group-18
+ Link to the Github repo: https://github.com/McGill-ECSE321-Fall2022/project-group-18
 
 
 ### Chat Moji
+- Created in a team of 4 an application that converts text to emoji
+- The backend was done by using Python (handle the input and produce the output)
+- The frontend was started written in HTML, CSS to integrate the backend.
+  
+ Link to the Github repo: https://github.com/andrei-sandor/ChatMoji
 
 ### RU Hackathon
+- Created an application that diagnoses if a person has a disease.
+- Machine learning was done to detect if the person has a disease.
+- sqlite was used to handle the database representing the record of the patient.
+
+  Link to the Github repo: https://github.com/andrei-sandor/RUHackathon
 
 ## Link to my portfolio for my other projects
 Link to my porfolio: https://github.com/andrei-sandor/Portfolio-Andrei-Sandor

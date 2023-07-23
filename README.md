@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Here the portfolio will appear
-
-
-
 
     🧑🏻‍🎓 Third Year Software Engineering Co-op student at McGill University
 

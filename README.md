@@ -63,7 +63,6 @@ Link to the Github repo: https://github.com/andrei-sandor/RUHackathon
 Link to my porfolio: https://github.com/andrei-sandor/Portfolio-Andrei-Sandor
 
 ## Stats
- ![Andrei Sandor's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrei-sandor)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei-sandor)
 

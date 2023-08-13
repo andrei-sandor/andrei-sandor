@@ -40,36 +40,36 @@ Tools: VSCode, Anaconda, Eclipse, GitHub, JIRA, SVC, Spring, Hibernate, PostgreS
 
 ## Main Projects:
 ### Museum Website
-- Created in a team of 6 a website by using software engineering project management best practices.
-- Built the backend by using Java, Spring, JPA, PostgreSQL
-- Built the frontend by using Vue.js (HTML, CSS, JavaScript)
+ 1. Created in a team of 6 a website by using software engineering project management best practices.
+ 2. Built the backend by using Java, Spring, JPA, PostgreSQL
+ 3. Built the frontend by using Vue.js (HTML, CSS, JavaScript)
 
  Link to the Github repo: https://github.com/McGill-ECSE321-Fall2022/project-group-18
 
 
 ### Chat Moji
-- Created in a team of 4 an application that converts text to emoji
-- The backend was done by using Python (handle the input and produce the output)
-- The frontend was started written in HTML, CSS to integrate the backend.
+ 1. Created in a team of 4 an application that converts text to emoji
+ 2. The backend was done by using Python (handle the input and produce the output)
+ 3. The frontend was started written in HTML, CSS to integrate the backend.
   
  Link to the Github repo: https://github.com/andrei-sandor/ChatMoji
 
 ### RU Hackathon
-- Created an application that diagnoses if a person has a disease
-- Machine learning was done to detect if the person has a disease
-- sqlite was used to handle the database representing the record of the patient
+ 1. Created an application that diagnoses if a person has a disease
+ 2. Machine learning was done to detect if the person has a disease
+ 3. sqlite was used to handle the database representing the record of the patient
 
 Link to the Github repo: https://github.com/andrei-sandor/RUHackathon
 
 ### Gaming Price Tracker
-- Created a website that tracks video games and gaming equipment used by users and employees/admin in a team of 9.
-- Created the backend by using AWS, Java, and Spring (Tested with Gherkin). Created the fronted with Vue.js
-- GitHub was used as a project management tool.
+ 1. Created a website that tracks video games and gaming equipment used by users and employees/admin in a team of 9.
+ 2. Created the backend by using AWS, Java, and Spring (Tested with Gherkin). Created the fronted with Vue.js
+ 3. GitHub was used as a project management tool.
 
 ### DiveSafe.
-- Created an application for a fictual island for a diving program.
-- Creatd the backend by using UMPLE code and Java. Tested by using TDD. Frontend done with CSS and JavaFx.
-- Collaborated with in a team of 6 to produce the code, domain model, state machines and constraints
+ 1. Created an application for a fictual island for a diving program.
+ 2. Created the backend by using UMPLE code and Java. Tested by using TDD. Frontend done with CSS and JavaFx.
+ 3. Collaborated with in a team of 6 to produce the code, domain model, state machines and constraints
 
 ## Link to my portfolio for my other projects
 Link to my porfolio: https://github.com/andrei-sandor/Portfolio-Andrei-Sandor

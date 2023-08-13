@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 👨🏻‍💻 Two internships completed (Rogue Research and Gildan). One to come at Autodesk in Fall 2023.
 
+🌱 I’m currently learning more about Machine Learning and using data by doing courses (IBM certificate) and working on repos offering exercises about Pandas, Scikit-Learn, Numpy and Matplotlib.
+
 💪 Master these programming languages:
 - Python (including the libraries Scikit-Learn, Pandas, Numpy, OpenCV, MatPlotLib)
 - Java

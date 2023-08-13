@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🧑🏻‍🎓 Third Year Software Engineering Co-op student at McGill University
+🧑🏻‍🎓 Third Year Software Engineering Co-op student at McGill University passionated about Machine Learning and Software Development
 
 👨🏻‍💻 Two internships completed (Rogue Research and Gildan). One to come at Autodesk in Fall 2023.
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - R
 - Octave
 
-
+Tools: VSCode, Anaconda, Eclipse, GitHub, JIRA, SVC, Spring, Hibernate, PostgreSQL, Flask, XCode
 
 
 ## Main Projects:

@@ -40,7 +40,7 @@ Tools: VSCode, Anaconda, Eclipse, GitHub, JIRA, SVC, Spring, Hibernate, PostgreS
 ### Museum Website
 - Created in a team of 6 a website by using software engineering project management best practices.
 - Built the backend by using Java, Spring, JPA, PostgreSQL
-- Built the frontend by using vue.js (HTML, CSS, JavaScript)
+- Built the frontend by using Vue.js (HTML, CSS, JavaScript)
 
  Link to the Github repo: https://github.com/McGill-ECSE321-Fall2022/project-group-18
 
@@ -58,6 +58,16 @@ Tools: VSCode, Anaconda, Eclipse, GitHub, JIRA, SVC, Spring, Hibernate, PostgreS
 - sqlite was used to handle the database representing the record of the patient
 
 Link to the Github repo: https://github.com/andrei-sandor/RUHackathon
+
+### Gaming Price Tracker
+- Created a website that tracks video games and gaming equipment used by users and employees/admin in a team of 9.
+- Created the backend by using AWS, Java, and Spring (Tested with Gherkin). Created the fronted with Vue.js
+- GitHub was used as a project management tool.
+
+### DiveSafe.
+- Created an application for a fictual island for a diving program.
+- Creatd the backend by using UMPLE code and Java. Tested by using TDD. Frontend done with CSS and JavaFx.
+- Collaborated with in a team of 6 to produce the code, domain model, state machines and constraints
 
 ## Link to my portfolio for my other projects
 Link to my porfolio: https://github.com/andrei-sandor/Portfolio-Andrei-Sandor

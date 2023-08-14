@@ -52,7 +52,7 @@ Tools: VSCode, Anaconda, Eclipse, GitHub, JIRA, SVC, Spring, Hibernate, PostgreS
  2. The backend was done by using Python (handle the input and produce the output)
  3. The frontend was started written in HTML, CSS to integrate the backend.
   
- Link to the Github repo: https://github.com/andrei-sandor/ChatMoji
+ Link to the Github repo: https://github.com/andrei-sandor/ChatTOHacks
 
 ### RU Hackathon
  1. Created an application that diagnoses if a person has a disease

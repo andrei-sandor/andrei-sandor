@@ -48,7 +48,7 @@ Tools: VSCode, Anaconda, Eclipse, GitHub, JIRA, SVC, Spring, Hibernate, PostgreS
 
  ### Co-Ride | Easy Ride Sharing
  1. Created in a team of 4 a website that matches commuters to the determined path of a driver.
- 2. Built the backend by using Machine Learning, FastApi, MS Azure and StreamLit.
+ 2. Built the backend by using Python, Machine Learning, FastApi, MS Azure and StreamLit.
  3. Built the frontend by using NextJS (JS and CSS). Used Google Geolocalisation API and Directions API.
 
  Link to the Github repo: (https://github.com/joshua-rdrgz/transporthacks)
@@ -63,7 +63,7 @@ Tools: VSCode, Anaconda, Eclipse, GitHub, JIRA, SVC, Spring, Hibernate, PostgreS
 
 ### RU Hackathon
  1. Created an application that diagnoses if a person has a disease
- 2. Machine learning was done to detect if the person has a disease
+ 2. Machine learning (Python) was done to detect if the person has a disease
  3. sqlite was used to handle the database representing the record of the patient
 
 Link to the Github repo: https://github.com/andrei-sandor/RUHackathon

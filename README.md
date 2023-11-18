@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - HTML
 - CSS
 - JavaScript
+- Vue.js
 - VHDL
 - R
 - Octave

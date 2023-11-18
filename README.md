@@ -52,7 +52,8 @@ Tools: VSCode, Anaconda, Eclipse, GitHub, JIRA, SVC, Spring, Hibernate, PostgreS
  2. Built the backend by using Python, Machine Learning, FastApi, MS Azure and StreamLit.
  3. Built the frontend by using NextJS (JS and CSS). Used Google Geolocalisation API and Directions API.
 
- Link to the Github repo: (https://github.com/joshua-rdrgz/transporthacks)
+ Link to the original Github repo: https://github.com/joshua-rdrgz/transporthacks
+ Link to my forked repo: https://github.com/andrei-sandor/transporthacks
 
 
 ### Chat Moji

@@ -48,7 +48,7 @@ Tools: VSCode, Anaconda, Eclipse, GitHub, JIRA, SVC, Spring, Hibernate, PostgreS
  Link to the Github repo: https://github.com/McGill-ECSE321-Fall2022/project-group-18
 
  ### Co-Ride | Easy Ride Sharing
- 1. Created in a team of 4 a website that matches commuters to the determined path of a driver.
+ 1. Created in a team of 4 a website that matches commuters to the determined path of a driver and offering maintenance for the driver's car.
  2. Built the backend by using Python, Machine Learning, FastApi, MS Azure and StreamLit.
  3. Built the frontend by using NextJS (JS and CSS). Used Google Geolocalisation API and Directions API.
 

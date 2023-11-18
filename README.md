@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 🌱 I’m currently learning more about Machine Learning and using data by doing courses (IBM certificate) and working on repos offering exercises about Pandas, Scikit-Learn, Numpy and Matplotlib.
 
 💪 Master these programming languages:
+- C++ (Including OpenCV)
 - Python (including the libraries Scikit-Learn, Pandas, Numpy, OpenCV, MatPlotLib)
 - Java
 - C
-- C++ (Including OpenCV)
 - Objective-C
 - Assembly
 - HTML

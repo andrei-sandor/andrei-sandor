@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🧑🏻‍🎓 Third Year Software Engineering Co-op student at McGill University passionated about Machine Learning and Software Development
+🧑🏻‍🎓 Fourth Year Software Engineering Co-op student at McGill University passionated about Software Development and Machine Learning. 
 
-👨🏻‍💻 Two internships completed (Rogue Research and Gildan). Currently one at Autodesk in Fall 2023.
+👨🏻‍💻 Four internships completed (Rogue Research, Autodesk and Gildan).
 
-🌱 I’m currently learning more about Machine Learning and using data by doing courses (IBM certificate) and working on repos offering exercises about Pandas, Scikit-Learn, Numpy and Matplotlib.
+🌱 I’m currently learning more about Machine Learning and working on repos offering exercises about Pandas, Scikit-Learn, Numpy and Matplotlib.
 
 💪 Master these programming languages:
 - C++ (Including OpenCV)
@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 - R
 - Octave
 
-Libraries/Frameworks: Scikit-learn, Pandas, NumPy, Matplotlib, Flask, UMPLE, FastAPI, Vue.js, Spring, React/NextJS, asyncio, JavaFx,audioop,SQLite, Pickle, JUnit, TensorFlow, Discord_Api, openai, joblib, repl.it db, ntlk, tabula, tabulate, PyPDF2
+Libraries/Frameworks: Scikit-learn, Pandas, NumPy, Matplotlib, Flask, UMPLE, FastAPI, Vue.js, Spring, React/NextJS, asyncio, JavaFx,audioop,SQLite, Pickle, JUnit, TensorFlow, Discord_Api, openai, joblib, repl.it db, ntlk, tabula, tabulate, PyPDF2, xarray, specklepy.api, steamlit, plotly, speckle_io, 
 
-Technologies: Github, Git, VSCode, JupyterNotebook, Eclipse, Gradle, Hibernate, PostgresSQL, MSAzure, Streamlite, AWS, Google Cloud, GoDaddy, SQL, Google Tools, PyCharm, IntelliJ, ARMv7DE1-SoC Emulator, Postman, JSON, Gherkin, Repl.it cloud service.
+Technologies: Github, Git, VSCode, JupyterNotebook, Eclipse, Gradle, Hibernate, PostgresSQL, MSAzure, Streamlite, AWS, Google Cloud, GoDaddy, SQL, Google Tools, PyCharm, IntelliJ, ARMv7DE1-SoC Emulator, Postman, JSON, Gherkin, Repl.it cloud service. Anaconda, Discord
 
 
 ## Main Projects:

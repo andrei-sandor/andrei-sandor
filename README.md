@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 - R
 - Octave
 
-Libraries/Frameworks: Scikit-learn, Pandas, NumPy, Matplotlib, Flask, UMPLE, FastAPI, Vue.js, Spring, React/NextJS, asyncio, JavaFx,audioop,SQLite, Pickle, JUnit, TensorFlow, Discord_Api, openai, joblib, repl.it db, ntlk, tabula, tabulate, PyPDF2, xarray, specklepy.api, steamlit, plotly, speckle_io, 
+Libraries/Frameworks: Scikit-learn, Pandas, NumPy, Matplotlib, Flask, UMPLE, FastAPI, Vue.js, Spring, React/NextJS, asyncio, JavaFx,audioop,SQLite, Pickle, JUnit, TensorFlow, Discord_Api, openai, joblib, repl.it db, ntlk, tabula, tabulate, PyPDF2, xarray, specklepy.api, steamlit, plotly, speckle_io, selenium, openpyxl, win32com, smtplib, forex,  seaborn
 
-Technologies: Github, Git, VSCode, JupyterNotebook, Eclipse, Gradle, Hibernate, PostgresSQL, MSAzure, Streamlite, AWS, Google Cloud, GoDaddy, SQL, Google Tools, PyCharm, IntelliJ, ARMv7DE1-SoC Emulator, Postman, JSON, Gherkin, Repl.it cloud service. Anaconda, Discord
+Technologies: Github, Git, VSCode, JupyterNotebook, Eclipse, Gradle, Hibernate, PostgresSQL, MSAzure, Streamlite, AWS, Google Cloud, GoDaddy, SQL, Google Tools, PyCharm, IntelliJ, ARMv7DE1-SoC Emulator, Postman, JSON, Gherkin, Repl.it cloud service. Anaconda, Discord, Bootstrap
 
 
 ## Main Projects:

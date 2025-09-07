@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🧑🏻‍🎓 First Year Masters Student in Computer Science (Non-Thesis). Graduate Software Engineering Co-op student at McGill University passionated about Software Development and Machine Learning. 
+🧑🏻‍🎓 First Year Masters Student in Computer Science (Non-Thesis) at McGill University. Graduate Software Engineering Co-op student at McGill University passionated about Software Development and Machine Learning. 
 
 👨🏻‍💻 Four internships completed (Rogue Research, Autodesk and Gildan).
 

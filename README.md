@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🧑🏻‍🎓 First Year Masters Student in Computer Science (Non-Thesis) at McGill University. Graduate Software Engineering Co-op student at McGill University passionated about Software Development and Machine Learning. 
+🧑🏻‍🎓 Second Year Masters Student in Computer Science (Non-Thesis) at McGill University. Graduate Software Engineering Co-op student at McGill University passionate about Software Development and Machine Learning. 
 
-👨🏻‍💻 Four internships completed (Rogue Research, Autodesk and Gildan).
-
-🌱 I’m currently learning more about Machine Learning and working on repos offering exercises about Pandas, Scikit-Learn, Numpy and Matplotlib.
+👨🏻‍💻 Four internships completed (Rogue Research, Autodesk and Gildan) and Research Experience with the Reliable Silicon Systems Labs
 
 💪 Master these programming languages:
 - C++ (Including OpenCV)
-- Python (including the libraries Scikit-Learn, Pandas, Numpy, OpenCV, MatPlotLib)
+- Python (including the libraries PyTorch, Scikit-Learn, Pandas, Numpy, OpenCV, MatPlotLib)
 - Java
 - C
 - Objective-C
